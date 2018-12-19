@@ -43,4 +43,11 @@ public class ControllerGoods {
 
         return "page";
     }
+
+    @GetMapping("/ind")
+    public String getIndex(){
+        return "index";
+    }
+
+
 }

@@ -1,0 +1,14 @@
+
+body{
+background:#ccc;
+color:green;
+}
+h2{
+  font-family:Arial;
+}
+#ab{
+  color: red;
+}
+.some_class{
+  color: blue;
+}
