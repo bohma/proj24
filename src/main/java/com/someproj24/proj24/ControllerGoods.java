@@ -46,6 +46,7 @@ public class ControllerGoods {
 
     @GetMapping("/ind")
     public String getIndex(){
+        //
         return "index";
     }
 
